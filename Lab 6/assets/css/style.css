@@ -1,0 +1,23 @@
+*{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: #1b1b1b;
+}
+.nav-item{
+    margin: 20px;
+    list-style: none;
+}
+.nav-link{
+    text-decoration: none;
+    color: #fff;
+}
+.nav-link:hover{
+    text-decoration: none;
+    color: #fff;
+    cursor: pointer;
+}

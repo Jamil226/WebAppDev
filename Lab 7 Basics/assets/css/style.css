@@ -1,0 +1,49 @@
+.section h1, .section h2 {
+  color: red;
+  text-transform: uppercase;
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif; }
+
+* {
+  padding: 0px;
+  margin: 0px; }
+
+.section .section-about {
+  margin: 30px;
+  border: 2px solid tomato;
+  padding: 20px;
+  -webkit-box-shadow: 2px 2px 5px #1b1b1b;
+  -moz-box-shadow: 2px 2px 5px #1b1b1b;
+  box-shadow: 2px 2px 5px #1b1b1b; }
+.section h1 {
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  border: 2px solid tomato;
+  color: red;
+  padding: 10px; }
+.section h2 {
+  margin-top: 20px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  border: 2px solid tomato;
+  padding: 10px; }
+
+nav ul {
+  background-color: #1c1c1c;
+  display: flex;
+  justify-content: center;
+  width: 100%; }
+nav li {
+  list-style: none;
+  margin: 20px; }
+nav a {
+  text-decoration: none;
+  color: #fff; }
+nav a:hover {
+  text-decoration: none;
+  cursor: pointer;
+  color: #fff; }
+
+/*# sourceMappingURL=style.css.map */

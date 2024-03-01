@@ -1,0 +1,40 @@
+.h1 {
+  padding: 20px; }
+
+.h2 {
+  padding: 20px; }
+
+.test {
+  margin-left: 10px; }
+
+.test1 {
+  margin-right: 10px; }
+
+.icon-user {
+  color: red; }
+
+.xyz {
+  width: 800px; }
+
+.test2 {
+  margin: 10px; }
+
+.str-functions {
+  font-family: "Arial";
+  font-family: ARIAL;
+  font-family: arial;
+  font-family: 5;
+  font-family: uqhp7ys9y;
+  font-family: 1;
+  font-family: "Helvetica Neue Mono";
+  font-family: "Neue"; }
+
+.color-functions {
+  color: #330000;
+  color: #ff6666;
+  color: adjust-heu(red, 20);
+  color: adjust-sature(red, 20);
+  color: adjust-desature(red, 20);
+  color: purple; }
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,92 @@
+@font-face {
+    font-family: main_font_regular;
+    src: url('../fonts/Poppins-Regular.ttf');
+}
+@font-face {
+    font-family: main_font_bold;
+    src: url('../fonts/Poppins-Bold.ttf');
+}
+@font-face {
+    font-family: main_font_italic;
+    src: url('../fonts/Poppins-Italic.ttf');
+}
+.container{
+   
+    margin-left:50px;
+    margin-right:50px;
+}
+.box{
+    background-color: teal;
+    padding: 30px;
+    border-radius: 30px;
+
+}
+h1{
+    color: white;
+    font-family: main_font_bold;
+}
+p{
+    color: #efefef;
+    font-family: main_font_regular;
+
+}
+/* button{
+    width: 100px;
+    height: 35px;
+    border-radius:10px;
+    border: 1px solid white;
+}
+button:hover{
+    cursor: pointer;
+    width: 100px;
+    height: 35px;
+    color: white;
+    background-color: teal;
+    border-radius:10px;
+    border: 1px solid white;
+} */
+.link{
+    text-decoration: none;
+    color:teal;
+    cursor:pointer;
+}
+.form{
+    background-color: #e2e2e2;
+    width: 40vw;
+    height: 50vh;
+    padding: 50px;
+
+}
+.form-label{
+    color: #232323;
+    font-family: main_font_regular;
+    margin-bottom: 10px;
+    margin-left: 5px;
+
+}
+.form-group{
+    border: 1px solid tomato;
+    border-radius: 20px;
+    height: 25px;
+    font-family: main_font_regular;
+    width: 250px;
+
+}
+.btn-primary{
+    background-color: tomato;
+    color: white;
+    border: none;
+    font-family: main_font_regular;
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+}
+.btn-primary:hover{
+    background-color: #e2e2e2;
+    color: white;
+    font-family: main_font_regular;
+    border: 1px solid tomato;
+    border-radius: 20px;
+    height: 30px;
+    width: 250px;
+}

@@ -1,0 +1,58 @@
+/* External CSS File
+For Learning */
+#heading_one{
+    color:#fff; 
+    border:20px solid #0C2D57; 
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-top:100px; 
+    padding:30px; 
+    background-color:green; 
+    text-align:center;
+}
+#heading_one_alt{
+    color:red; 
+    border:20px solid #0C2D57; 
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-top:100px; 
+    padding:30px; 
+    background-color:#c2c2c2; 
+    text-align:center;
+}
+p{
+    margin-left:100px; 
+    margin-right:100px; 
+    padding: 20px; 
+    color: #0000ff;
+    border:2px solid #ff0000;
+    text-align: justify;
+}
+.heading_one{
+    color:#fff; 
+    border:20px solid #0C2D57; 
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-top:100px; 
+    padding:30px; 
+    background-color:green; 
+    text-align:center;
+}
+.heading_one_alt{
+    color:red; 
+    border:20px solid #0C2D57; 
+    margin-left:100px; 
+    margin-right:100px; 
+    margin-top:100px; 
+    padding:30px; 
+    background-color:#c2c2c2; 
+    text-align:center;
+}
+p.center{
+    margin-left:100px; 
+    margin-right:100px; 
+    padding: 20px; 
+    color: tomato;
+    border:2px solid teal;
+    text-align: justify;
+}

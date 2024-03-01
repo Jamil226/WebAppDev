@@ -1,0 +1,30 @@
+:root{
+    --primary-text-color:#0063c5;
+    --secondary-text-color:#000000;
+    --default-background-color:#c1c1c1;
+    --default-margin:20px;
+    --default-border: 2px solid red;
+    --default-padding:10px;
+
+}
+body{
+    background-color: var(--default-background-color);
+}
+
+
+h1{
+    font-size: 5rem;
+    border: var(--default-border);
+    padding: var(--padding);
+
+}
+h2{
+    border: var(--default-heading-border);
+    padding: var(--default-padding);
+}
+p{
+    color: var(--secondary-text-color);
+    padding: var(--default-padding);
+    margin: var(--default-margin);
+    border: var(--default-border);
+}

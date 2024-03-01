@@ -1,0 +1,33 @@
+
+@font-face {
+    font-family: poppins_regular;
+    src: url("../fonts/Poppins-Regular.ttf");
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+.container{
+    background-color: rgb(40, 40, 40);
+}
+.nav{
+    display:flex;
+    width:100%;
+    background-color: #3f0f69;
+    justify-content: center;
+}
+.nav-item{
+    margin:20px;
+    list-style: none;
+}
+.nav-link{
+    color:white;
+    text-decoration: none;
+    font-family: poppins_regular;
+}
+.nav-link:hover{
+    cursor: pointer;
+    color:#c1c1c1;
+    text-decoration: none;
+    font-family: poppins_regular;
+}
