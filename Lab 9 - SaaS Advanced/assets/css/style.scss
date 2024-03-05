@@ -1,0 +1,165 @@
+$main-color:tomato;
+$text-color:green;
+$heading-color:white;
+
+$container-large-bg:tomato;
+$container-small-bg: green;
+$container-very-small-bg: blue;
+$container-padding:30px;
+$container-margin:30px;
+// $map: ("regular":12px, "medium":14px);
+
+
+// @media screen and (max-width:1500px) {
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-large-bg;
+//         padding: $container-padding;
+//         margin: $container-margin;
+    
+//     }
+    
+// }
+
+// @media screen and (max-width:1000px) {
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-large-small;
+//         padding: $container-padding;
+//         margin: $container-margin;
+    
+//     }
+    
+// }
+
+
+// @media screen and (max-width:600px) {
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-very-small;
+//         padding: $container-padding;
+//         margin: $container-margin;
+    
+//     }
+    
+// }
+
+// @mixin media ($width) {
+//     @media screen and (max-width:$width) {
+//         @content;
+//     }
+    
+// }
+
+// @include media(1500px){
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-large-bg;
+//         padding: $container-padding;
+//         margin: $container-margin;
+//     }
+// }
+
+
+// @include media(1000px){
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-small-bg;
+//         padding: $container-padding;
+//         margin: $container-margin;
+//     }
+// }
+
+
+// @include media(600px){
+//     .container{
+//         color: $heading-color;
+//         background-color: $container-very-small-bg;
+//         padding: $container-padding;
+//         margin: $container-margin;
+//     }
+// }
+
+
+// .container{
+//     color: $container-large-bg;
+//     .container-wrapper{
+//         color: teal;
+//         .img{
+//             width: 100%;
+//         }
+//     }
+//     .container-child{
+//         color: seagreen;
+//     }
+// }
+
+// .container{
+//     color: $container-large-bg;
+//     @at-root{
+//         .container-wrapper{
+//             color: teal;
+//             .img{
+//                 width: 100%;
+//             }
+//         }
+//     }
+// }
+
+// .container{
+//     @if($container-padding < 30){ color: red; }
+//     @else if($container-padding == 30){ color: teal; }
+//     @else if($container-padding > 30 and $container-padding < 70){ color: orange; }
+//     @else{color: black;}
+// }
+
+// For with to
+
+// $i:1;
+// @for $i from 1 to 10 {
+//     .list-#{$i}{
+//         width: 100px * $i;
+//     }
+    
+// }
+
+// For with through
+
+
+// $i:1;
+// @for $i from 1 through 10 {
+//     .list-#{$i}{
+//         width: 100px * $i;
+//     }
+    
+// }
+
+// Each with List
+
+// $list:(normal, bold, italic);
+// $i:1;
+// @each $i in $list {
+//     .font-weight-#{$i}{
+//         font-weight: $i;
+//     }
+    
+// }
+
+// Each with Map
+
+// $i:1;
+// $map: ("primary":blue, "secondary":black, "success":green, "danger":red);
+// @each $i, $name in $map {
+//     .bg-#{$i}{
+//         background-color: $name;
+//     }
+// }
+
+// $i:1;
+// @while $i <= 10 {
+//     .padding-#{$i}{
+//         padding: 10 * $i;
+//     }
+//     $i : $i + 1;
+    
+// }
