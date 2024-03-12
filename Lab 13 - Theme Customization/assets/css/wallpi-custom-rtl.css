@@ -1,0 +1,67 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.footer-widget__col__content__links li a::before,
+.project-one__item__right-arrow > i,
+.service-one .sercives-arrow-right > i {
+  transform: scaleX(-1);
+}
+
+.testimonials-one__carousel.owl-carousel .owl-nav {
+  flex-direction: row-reverse;
+}
+
+.footer-widget__col__content__links li a::after {
+  bottom: 0;
+}
+
+.services-feedback-one .services-feedback-one__shapeleft {
+  left: 0;
+  right: initial;
+  background-position: left bottom;
+}
+
+.services-feedback-one .services-feedback-one__shaperight {
+  left: initial;
+  right: 0;
+  background-position: right bottom;
+}
+
+.testimonials-card__athour-wrap {
+  background-image: url("../images/shapes/testimonial-shape-rtl1-1.png");
+}
+
+.consultation-one__colimg__image__mainimg::after {
+  background-image: url("../images/shapes/consultation-shape-rtl1-2.png");
+}
+
+.sec-title__tagline {
+  display: inline-block;
+}
+
+.about-one__image__wrap__inner_shape-top::after {
+  transform: scaleX(-1);
+  left: -22px;
+}
+/*# sourceMappingURL=wallpi-custom-rtl.css.map */

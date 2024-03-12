@@ -1,3 +1,20 @@
-
+@media screen and (max-width: 1500px) {
+  .container {
+    color: white;
+    background-color: tomato;
+    padding: 30px;
+    margin: 30px; } }
+@media screen and (max-width: 1000px) {
+  .container {
+    color: white;
+    background-color: green;
+    padding: 30px;
+    margin: 30px; } }
+@media screen and (max-width: 600px) {
+  .container {
+    color: white;
+    background-color: blue;
+    padding: 30px;
+    margin: 30px; } }
 
 /*# sourceMappingURL=style.css.map */

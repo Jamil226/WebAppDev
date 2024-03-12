@@ -10,46 +10,46 @@ $container-margin:30px;
 // $map: ("regular":12px, "medium":14px);
 
 
-// @media screen and (max-width:1500px) {
-//     .container{
-//         color: $heading-color;
-//         background-color: $container-large-bg;
-//         padding: $container-padding;
-//         margin: $container-margin;
+@media screen and (max-width:1500px) {
+    .container{
+        color: $heading-color;
+        background-color: $container-large-bg;
+        padding: $container-padding;
+        margin: $container-margin;
     
-//     }
+    }
     
-// }
+}
 
-// @media screen and (max-width:1000px) {
-//     .container{
-//         color: $heading-color;
-//         background-color: $container-large-small;
-//         padding: $container-padding;
-//         margin: $container-margin;
+@media screen and (max-width:1000px) {
+    .container{
+        color: $heading-color;
+        background-color: $container-small-bg;
+        padding: $container-padding;
+        margin: $container-margin;
     
-//     }
+    }
     
-// }
+}
 
 
-// @media screen and (max-width:600px) {
-//     .container{
-//         color: $heading-color;
-//         background-color: $container-very-small;
-//         padding: $container-padding;
-//         margin: $container-margin;
+@media screen and (max-width:600px) {
+    .container{
+        color: $heading-color;
+        background-color: $container-very-small-bg;
+        padding: $container-padding;
+        margin: $container-margin;
     
-//     }
+    }
     
-// }
+}
 
-// @mixin media ($width) {
-//     @media screen and (max-width:$width) {
-//         @content;
-//     }
+@mixin media ($width) {
+    @media screen and (max-width:$width) {
+        @content;
+    }
     
-// }
+}
 
 // @include media(1500px){
 //     .container{
