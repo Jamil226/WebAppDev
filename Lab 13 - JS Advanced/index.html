@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>JS Basics</title>
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<script>
+
+			function onValidate(){
+				// var fName = document.forms["loginForm"]["TxtFirstName"].value;
+				var firstName = document.getElementById("first_name").value;
+				var lastName = document.getElementById("last_name").value;
+				if(firstName.length == 0){
+					alert("Enter First Name");
+					return false;
+				} else if(lastName.length == 0){
+					alert("Enter Last Name");
+					return false;
+				} else {
+					alert("Success");
+					return true;
+				}
+			}
+			
+			// const fruit = [
+			// 	"Apple",
+			// 	"Orange",
+			// 	"Mango"
+			// ];
+
+			// const cars = [];
+			// 		cars[0]= "Saab";
+			// 		cars[1]= "Volvo";
+			// 		cars[2]= "BMW";
+			// 		cars[2]= "Honda";
+			// 		cars[2]= "Toyota";
+
+
+			// const animal = new Array("Cow", "Dog", "Cat");
+
+
+		</script>
+	</head>
+	<body>
+
+		<form name="loginForm">
+			<input id="first_name" type="text" name="TxtFirstName" placeholder="Enter First Name">
+			<br>
+			<br>
+			<input id="last_name" type="text" placeholder="Enter Last Name">
+			<br>
+			<br>
+			<input type="submit" onclick="return onValidate()">
+		</form>
+
+	</body>
+		
+</html>
