@@ -1,0 +1,14 @@
+$primary-color:red;
+$bg-color:#c1c1c1;
+$default-padding:20px;
+.abc{
+    color: $primary-color;
+    background-color: $bg-color;
+    padding: $default-padding;
+}
+
+.test{
+    color: $primary-color;
+    background-color: $bg-color;
+    padding: $default-padding;
+}
