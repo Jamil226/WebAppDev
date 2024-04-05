@@ -13,4 +13,7 @@
   jQuery
   
   AJAX
-  PHP
+  
+  PHP & MySQL
+
+  Laravel
