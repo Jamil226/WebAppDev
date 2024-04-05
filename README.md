@@ -2,37 +2,53 @@
 
 In this repository you can find the following course modules:
 
-## HTML
-
-
+## HTML5 
 
 ```bash
-HTML Basics
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-HTML Advanced
+HTML Basics (Lab 01)
+HTML Advanced (Lab 02)
 ```
 
- Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-## Usage
-
-```python
-import foobar
-
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+## CSS3
+```bash
+CSS Basics (Lab 03)
+CSS Intermediate (Lab 04)
+CSS Advanced (Lab 05 & Lab 06)
 ```
+
+## Sass: Syntactically Awesome Style Sheets
+```bash
+Saas Basics (Lab 07)
+Saas Intermediate (Lab 08)
+Saas Advanced (Lab 09)
+```
+
+## Bootstrap 5
+```bash
+BS5 Basics (Lab 10)
+Saas Advanced (Lab 11)
+```
+
+## Javascript
+```bash
+JS Basics (Lab 12)
+JS Advanced (Lab 13)
+```
+
+## Responsive Themes
+```bash
+Theme Customisation (Lab 14)
+Making Dynamic Header Footers using PHP8 (Lab 15)
+```
+
+## PHP 8 & MySQL
+```bash
+PHP Basics (Lab 16)
+PHP & MySQL Database Connection(Lab 17)
+Secure Login with Sessions using PHP8 & MySQL (Lab 18)
+CRUD Operations Part I (Lab 19)
+```
+
 
 ## Contributing
 
@@ -41,6 +57,13 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
-## License
+## Licenses
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[FOSS](https://freeopensourcesoftware.org/) - Free and Open Source Licenses
+
+[MIT](https://choosealicense.com/licenses/mit/) - Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so.
