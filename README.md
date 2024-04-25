@@ -7,23 +7,28 @@ In this repository you can find the following course modules:
 * HTML Basics (Lab 01)
 * HTML Advanced (Lab 02)
 
+
 ## CSS3
 * CSS Basics (Lab 03)
 * CSS Intermediate (Lab 04)
 * CSS Advanced (Lab 05 & Lab 06)
+
 
 ## Sass: Syntactically Awesome Style Sheets
 * Saas Basics (Lab 07)
 * Saas Intermediate (Lab 08)
 * Saas Advanced (Lab 09)
 
+
 ## Bootstrap 5
 * BS5 Basics (Lab 10)
 * Saas Advanced (Lab 11)
 
+
 ## Javascript
 * JS Basics (Lab 12)
 * JS Advanced (Lab 13)
+
 
 ## Responsive Themes
 * Theme Customisation (Lab 14)
