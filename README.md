@@ -4,50 +4,37 @@ In this repository you can find the following course modules:
 
 ## HTML5 
 
-```bash
-HTML Basics (Lab 01)
-HTML Advanced (Lab 02)
-```
+* HTML Basics (Lab 01)
+* HTML Advanced (Lab 02)
 
 ## CSS3
-```bash
-CSS Basics (Lab 03)
-CSS Intermediate (Lab 04)
-CSS Advanced (Lab 05 & Lab 06)
-```
+* CSS Basics (Lab 03)
+* CSS Intermediate (Lab 04)
+* CSS Advanced (Lab 05 & Lab 06)
 
 ## Sass: Syntactically Awesome Style Sheets
-```bash
-Saas Basics (Lab 07)
-Saas Intermediate (Lab 08)
-Saas Advanced (Lab 09)
-```
+* Saas Basics (Lab 07)
+* Saas Intermediate (Lab 08)
+* Saas Advanced (Lab 09)
 
 ## Bootstrap 5
-```bash
-BS5 Basics (Lab 10)
-Saas Advanced (Lab 11)
-```
+* BS5 Basics (Lab 10)
+* Saas Advanced (Lab 11)
 
 ## Javascript
-```bash
-JS Basics (Lab 12)
-JS Advanced (Lab 13)
-```
+* JS Basics (Lab 12)
+* JS Advanced (Lab 13)
 
 ## Responsive Themes
-```bash
-Theme Customisation (Lab 14)
-Making Dynamic Header Footers using PHP8 (Lab 15)
-```
+* Theme Customisation (Lab 14)
+*  Making Dynamic Header Footers using PHP8 (Lab 15)
+
 
 ## PHP 8 & MySQL
-```bash
-PHP Basics (Lab 16)
-PHP & MySQL Database Connection(Lab 17)
-Secure Login with Sessions using PHP8 & MySQL (Lab 18)
-CRUD Operations Part I (Lab 19)
-```
+* PHP Basics (Lab 16)
+* PHP & MySQL Database Connection(Lab 17)
+* Secure Login with Sessions using PHP8 & MySQL (Lab 18)
+* CRUD Operations Part I (Lab 19)
 
 
 ## Contributing
@@ -67,3 +54,4 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so.
+![image](https://github.com/Jamil226/CUI-FA21-BCS/assets/25902775/e13f7253-3b97-4bb3-b01a-945a256ed276)
