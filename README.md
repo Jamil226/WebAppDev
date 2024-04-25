@@ -27,7 +27,7 @@ In this repository you can find the following course modules:
 
 ## Responsive Themes
 * Theme Customisation (Lab 14)
-*  Making Dynamic Header Footers using PHP8 (Lab 15)
+* Making Dynamic Header Footers using PHP8 (Lab 15)
 
 
 ## PHP 8 & MySQL
