@@ -54,3 +54,7 @@ in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so.
+<<<<<<< HEAD
+=======
+![image](https://github.com/Jamil226/CUI-FA21-BCS/assets/25902775/e13f7253-3b97-4bb3-b01a-945a256ed276)
+>>>>>>> refs/remotes/origin/master
