@@ -53,9 +53,7 @@ Please make sure to update tests as appropriate.
 
 [FOSS](https://freeopensourcesoftware.org/) - Free and Open Source Licenses
 
-[MIT](https://choosealicense.com/licenses/mit/) - 
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
+[MIT](https://choosealicense.com/licenses/mit/) - Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
 to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
