@@ -77,7 +77,8 @@ In this repository you can find the following course modules:
 * PHP & MySQL Database Connection(Lab 17)
 * Secure Login with Sessions using PHP8 & MySQL (Lab 18)
 * CRUD Operations Part I (Lab 19)
-
+* CRUD Operations Part II (Lab 20)
+* CRUD Operations Part II (Lab 21)
 
 ## Contributing
 
