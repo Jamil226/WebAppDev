@@ -12,12 +12,15 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 ![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Web App Development](https://img.shields.io/badge/Web%20App%20Development-Course-Green?labelColor=Gray&style=flat)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) 
+
 
 
 # Web Application Development Course
@@ -64,6 +67,20 @@ In this repository you can find the following course modules:
 * CRUD Operations Part I (Lab 19)
 * CRUD Operations Part II (Lab 20)
 * CRUD Operations Part II (Lab 21)
+
+## Microservices (Lab 22)
+* Synchronous API Call using REST Endpoints
+* JSON Encoding/Decoding
+* Postman Collections
+* Fetch Server Response against Http in JSON
+* Sending Data using POST/PUT Methods
+
+## Laravel 11 
+* Laravel Part I (Lab 23)
+* Laravel Part II (Lab 24)
+* Laravel Part III (Lab 25)
+* Laravel Part IV (Lab 26)
+
 
 ## Contributing
 
