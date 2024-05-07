@@ -54,21 +54,25 @@ In this repository you can find the following course modules:
 * JS Basics (Lab 12)
 * JS Advanced (Lab 13)
 
+## JQuery & AJAX (Lab 14)
+* XML
+* AJAX
+* JQuery
 
 ## Responsive Themes
-* Theme Customisation (Lab 14)
-* Making Dynamic Header Footers using PHP8 (Lab 15)
+* Theme Customisation (Lab 15)
+* Making Dynamic Header Footers using PHP8 (Lab 16)
 
 
 ## PHP 8 & MySQL
-* PHP Basics (Lab 16)
-* PHP & MySQL Database Connection(Lab 17)
-* Secure Login with Sessions using PHP8 & MySQL (Lab 18)
-* CRUD Operations Part I (Lab 19)
-* CRUD Operations Part II (Lab 20)
+* PHP Basics (Lab 17)
+* PHP & MySQL Database Connection(Lab 18)
+* Secure Login with Sessions using PHP8 & MySQL (Lab 19)
+* CRUD Operations Part I (Lab 20)
 * CRUD Operations Part II (Lab 21)
+* CRUD Operations Part II (Lab 22)
 
-## Microservices (Lab 22)
+## Microservices (Lab 23)
 * Synchronous API Call using REST Endpoints
 * JSON Encoding/Decoding
 * Postman Collections
@@ -76,10 +80,10 @@ In this repository you can find the following course modules:
 * Sending Data using POST/PUT Methods
 
 ## Laravel 11 
-* Laravel Part I (Lab 23)
-* Laravel Part II (Lab 24)
-* Laravel Part III (Lab 25)
-* Laravel Part IV (Lab 26)
+* Laravel Part I (Lab 24)
+* Laravel Part II (Lab 25)
+* Laravel Part III (Lab 26)
+* Laravel Part IV (Lab 27)
 
 
 ## Contributing
