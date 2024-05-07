@@ -1,0 +1,32 @@
+
+.test2{
+    margin: abs(-10px);
+    margin: ceil(4.2);
+    margin: floor(10.8);
+    margin: round(7.4);
+    margin: max(10px, 20px, 21px);
+    margin: min(10px, 20px, 21px);
+    margin: random(100);
+    margin: unit(100px);
+    margin: unitless(100px);
+    margin: comparable(10px , 1px );
+}
+.str-functions{
+    font-family: quote(Arial);
+    font-family: to-upper-case(Arial);
+    font-family: to-lower-case(Arial);
+    font-family: str-length(Arial);
+    font-family: unique-id();
+    font-family: str-index("Helvetica Neue", "H");
+    font-family: str-insert("Helvetica Neue", " Mono", 15);
+    font-family: str-slice("Helvetica Neue", 11);
+}
+
+.color-functions{
+    color: darken($base-color, 40);
+    color: lighten($base-color, 20);
+    color: adjust-heu($base-color, 20);
+    color: adjust-sature($base-color, 20);
+    color: adjust-desature($base-color, 20);
+    color: mix($base-color, blue);
+}

@@ -1,0 +1,38 @@
+$main-color:tomato;
+$text-color:green;
+$heading-color:white;
+
+$container-large-bg:tomato;
+$container-small-bg: green;
+$container-very-small-bg: blue;
+$container-padding:30px;
+$container-margin:30px;
+
+@include media(1500px){
+    .container{
+        color: $heading-color;
+        background-color: $container-large-bg;
+        padding: $container-padding;
+        margin: $container-margin;
+    }
+}
+
+
+@include media(1000px){
+    .container{
+        color: $heading-color;
+        background-color: $container-small-bg;
+        padding: $container-padding;
+        margin: $container-margin;
+    }
+}
+
+
+@include media(600px){
+    .container{
+        color: $heading-color;
+        background-color: $container-very-small-bg;
+        padding: $container-padding;
+        margin: $container-margin;
+    }
+}

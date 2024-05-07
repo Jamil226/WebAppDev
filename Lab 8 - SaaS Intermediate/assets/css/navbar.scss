@@ -1,0 +1,23 @@
+nav{
+    ul{
+        background-color: $primary-nav-bg-color;
+        display: flex;
+        justify-content: center;
+        width: 100%;
+    }
+    li{
+        list-style: none;
+        margin: 20px;
+
+    }
+    a {
+        text-decoration: none;
+        color: $primary-nav-link-color;
+
+    }
+    a:hover {
+        text-decoration: none;
+        cursor: pointer;
+        color: $primary-nav-link-color;
+    }
+}

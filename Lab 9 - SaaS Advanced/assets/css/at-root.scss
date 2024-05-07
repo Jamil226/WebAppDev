@@ -1,0 +1,36 @@
+$main-color:tomato;
+$text-color:green;
+$heading-color:white;
+
+$container-large-bg:tomato;
+$container-small-bg: green;
+$container-very-small-bg: blue;
+$container-padding:30px;
+$container-margin:30px;
+
+
+.container{
+    color: $container-large-bg;
+    .container-wrapper{
+        color: teal;
+        .img{
+            width: 100%;
+        }
+    }
+    .container-child{
+        color: seagreen;
+    }
+}
+
+.container{
+    color: $container-large-bg;
+    @at-root{
+        .container-wrapper{
+            color: teal;
+            .img{
+                width: 100%;
+            }
+        }
+    }
+}
+

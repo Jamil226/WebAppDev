@@ -1,0 +1,33 @@
+$main-color:tomato;
+$text-color:green;
+$heading-color:white;
+
+$container-large-bg:tomato;
+$container-small-bg: green;
+$container-very-small-bg: blue;
+$container-padding:30px;
+$container-margin:30px;
+
+
+
+
+// Each with List
+
+$list:(normal, bold, italic);
+$i:1;
+@each $i in $list {
+    .font-weight-#{$i}{
+        font-weight: $i;
+    }
+    
+}
+
+// Each with Map
+
+$i:1;
+$map: ("primary":blue, "secondary":black, "success":green, "danger":red);
+@each $i, $name in $map {
+    .bg-#{$i}{
+        background-color: $name;
+    }
+}

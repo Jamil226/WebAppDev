@@ -1,0 +1,19 @@
+$main-color:tomato;
+$text-color:green;
+$heading-color:white;
+
+$container-large-bg:tomato;
+$container-small-bg: green;
+$container-very-small-bg: blue;
+$container-padding:30px;
+$container-margin:30px;
+
+
+$i:1;
+@while $i <= 10 {
+    .padding-#{$i}{
+        padding: 10 * $i;
+    }
+    $i : $i + 1;
+    
+}
