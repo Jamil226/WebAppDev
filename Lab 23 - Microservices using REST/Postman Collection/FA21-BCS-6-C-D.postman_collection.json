@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "f52b1315-bbc4-40d1-9896-fa0996957395",
+		"name": "FA21-BCS-6-C-D",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "5108786"
+	},
+	"item": [
+		{
+			"name": "Load News",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost/REST-API/LoadNews.php",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"path": [
+						"REST-API",
+						"LoadNews.php"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
