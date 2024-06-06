@@ -1,0 +1,36 @@
+@media screen and (max-width: 1920px) {
+    .logo-image {
+        margin-left: 40%;
+    }
+}
+@media screen and (max-width: 1750px) {
+    .logo-image {
+        margin-left: 35%;
+    }
+}
+@media screen and (max-width: 1500px) {
+    .logo-image {
+        margin-left: 30%;
+    }
+}
+@media screen and (max-width: 1199px) {
+    .logo-image {
+        margin-left: 25%;
+    }
+}
+@media screen and (max-width: 769px) {
+    .logo-image {
+        margin-left: 5%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .logo-image {
+        margin-left: 0%;
+    }
+}
+@media screen and (max-width: 400px) {
+    .logo-image {
+        margin-left: 0%;
+    }
+}
