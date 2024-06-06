@@ -84,7 +84,10 @@ In this repository you can find the following course modules:
 * Laravel Part II (Lab 25)
 * Laravel Part III (Lab 26)
 * Laravel Part IV (Lab 27)
-
+* Laravel Part V (Lab 28)
+* Laravel Part VI (Lab 29)
+* Laravel Part VII (Lab 30)
+* Laravel Part VIII (Lab 31)
 
 ## Contributing
 
